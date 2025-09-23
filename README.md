@@ -1,5 +1,5 @@
 # 기술 스택 ✨
-## React, Spring Boot, Python, Linux
+## React, Spring Boot, Python, Linux, Kafka, AWS
 
 
 # 컨벤션
